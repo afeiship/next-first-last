@@ -8,5 +8,7 @@ npm install -S afeiship/next-first-last --registry=https://registry.npm.taobao.o
 
 ## usage:
 ```js
-//DOCS here!
+var arr = [1, 2, 3];
+var rs = nx.firstLast(arr);
+// [1,3]
 ```
