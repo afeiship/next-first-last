@@ -14,6 +14,8 @@ var rs = nx.firstLast(arr);
 ```
 
 ## es5/6 ticks:
+- http://www.codeblocq.com/2016/05/Get-the-last-element-of-an-Array-in-JavaScript/
+
 ```js
 // es6 destruct:
 let arr = [1,2,3]
